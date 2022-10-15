@@ -33,6 +33,13 @@
 
 ## Цитаты
 
+name | count | comment |
+----|------|--------|
+one | 1| one|
+two| 2|two|
+tree|3|tree|
+
+
 ## Заключения
 
 The end
