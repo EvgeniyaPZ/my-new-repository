@@ -29,7 +29,7 @@
 
 ## ССылки
 
-
+[linl on site](https://gb.ru/lessons/265787)
 
 ## Работа с таблицами
 
